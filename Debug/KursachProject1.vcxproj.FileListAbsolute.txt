@@ -1,0 +1,22 @@
+D:\Programm\Project Visual Studio 2019\For курсач\KursachProject1\Debug\KursachProject1.vcxproj.ResolveComReference.cache
+D:\Programm\Project Visual Studio 2019\For курсач\KursachProject1\Debug\KursachProject1.myAboutWind.resources
+D:\Programm\Project Visual Studio 2019\For курсач\KursachProject1\Debug\KursachProject1.MyForm.resources
+D:\Programm\Project Visual Studio 2019\For курсач\KursachProject1\Debug\KursachProject1.myKatalog.resources
+D:\Programm\Project Visual Studio 2019\For курсач\KursachProject1\Debug\KursachProject1.myOptions.resources
+D:\Programm\Project Visual Studio 2019\For курсач\KursachProject1\Debug\KursachProject1.SearchAutoForm.resources
+D:\Programm\Project Visual Studio 2019\For курсач\KursachProject1\Debug\KursachProject1.vcxproj.GenerateResource.cache
+D:\Programm\Project Visual Studio 2019\For курсач\KursachProject1\Debug\KursachProject1.vcxproj.CopyComplete
+D:\Programm\Project Visual Studio 2019\For курсач\KursachProject1\Debug\KursachProject1.exe
+D:\Programm\Project Visual Studio 2019\For курсач\KursachProject1\Debug\Bunifu_UI_v1.52.dll
+D:\KursachProject1\Debug\KursachProject1.vcxproj.AssemblyReference.cache
+D:\KursachProject1\Debug\KursachProject1.vcxproj.ResolveComReference.cache
+D:\KursachProject1\Debug\KursachProject1.myAboutWind.resources
+D:\KursachProject1\Debug\KursachProject1.MyForm.resources
+D:\KursachProject1\Debug\KursachProject1.myKatalog.resources
+D:\KursachProject1\Debug\KursachProject1.myOptions.resources
+D:\KursachProject1\Debug\KursachProject1.SearchAutoForm.resources
+D:\KursachProject1\Debug\KursachProject1.vcxproj.GenerateResource.cache
+D:\KursachProject1\Debug\KursachProject1.vcxproj.CopyComplete
+D:\KursachProject1\Debug\KursachProject1.exe
+D:\KursachProject1\Debug\Bunifu_UI_v1.52.dll
+D:\Programm\Project Visual Studio 2019\For курсач\KursachProject1\Debug\KursachProject1.send_mail_form.resources

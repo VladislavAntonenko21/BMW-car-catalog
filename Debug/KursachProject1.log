@@ -1,0 +1,16 @@
+﻿  myAboutWind.cpp
+  MyForm.cpp
+D:\Programm\Project Visual Studio 2019\For курсач\KursachProject1\myKatalog.h(2366,21): warning C4101: ex: неиспользованная локальная переменная
+D:\Programm\Project Visual Studio 2019\For курсач\KursachProject1\myKatalog.h(2819,21): warning C4101: ex: неиспользованная локальная переменная
+  myKatalog.cpp
+D:\Programm\Project Visual Studio 2019\For курсач\KursachProject1\myKatalog.h(2366,21): warning C4101: ex: неиспользованная локальная переменная
+D:\Programm\Project Visual Studio 2019\For курсач\KursachProject1\myKatalog.h(2819,21): warning C4101: ex: неиспользованная локальная переменная
+  myOptions.cpp
+D:\Programm\Project Visual Studio 2019\For курсач\KursachProject1\myKatalog.h(2366,21): warning C4101: ex: неиспользованная локальная переменная
+D:\Programm\Project Visual Studio 2019\For курсач\KursachProject1\myKatalog.h(2819,21): warning C4101: ex: неиспользованная локальная переменная
+  SearchAutoForm.cpp
+  send_mail_form.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  myAboutWind.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  KursachProject1.vcxproj -> D:\Programm\Project Visual Studio 2019\For курсач\KursachProject1\Debug\KursachProject1.exe
